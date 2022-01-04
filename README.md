@@ -15,7 +15,7 @@ I am currently looking for a career change and I am interested in front-end web 
 
 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on improving my skills and knowledge in Python and C++. 
 - 🌱 I’m currently learning Python, C++, Data Structures and Algorithms with C/C++, JavaScript, HTML, CSS 
 - 👯 I’m looking to collaborate with other content creators. 
 - 📫 How to reach me: mysems01@gmail.com 
